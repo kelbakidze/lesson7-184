@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/cabin/Cabin-Bold.eot');
+    src: url('../fonts/cabin/Cabin-Bold.eot') format('embedded-opentype'),
+        url('../fonts/cabin/Cabin-Bold.woff2') format('woff2'),
+        url('../fonts/cabin/Cabin-Bold.woff') format('woff'),
+        url('../fonts/cabin/Cabin-Bold.ttf') format('truetype'),
+        url('../fonts/cabin/Cabin-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/poppins/Poppins-ExtraBoldItalic.eot');
+    src: url('../fonts/poppins/Poppins-ExtraBoldItalic.eot') format('embedded-opentype'),
+        url('../fonts/poppins/Poppins-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/poppins/Poppins-ExtraBoldItalic.woff') format('woff'),
+        url('../fonts/poppins/Poppins-ExtraBoldItalic.ttf') format('truetype'),
+        url('../fonts/poppins/Poppins-ExtraBoldItalic.svg') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
